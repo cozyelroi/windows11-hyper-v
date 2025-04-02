@@ -41,8 +41,14 @@ Setting up Windows 11 in Hyper-V is beneficial for testing new features, running
 
 ### Step 1: Enable Hyper-V on the Host Machine
 1. Open **Control Panel** > **Programs** > **Turn Windows features on or off**.
+
+![image](https://github.com/user-attachments/assets/7d3306d7-8351-4c5d-ae5e-20e40f2e1f5b)
+![image](https://github.com/user-attachments/assets/2f618c45-f13c-4e4c-b84b-bcad9b8f8772)
+![image](https://github.com/user-attachments/assets/a369d0eb-87a0-4e5f-92b1-3aade6cc1c3c)
+
 2. Check the box for **Hyper-V** and click **OK**.
 3. Restart the system if prompted to complete the Hyper-V installation.
+![image](https://github.com/user-attachments/assets/51195264-50c8-4055-803d-00354a73600a)
 
 ### Step 2: Download the Windows 11 ISO
 1. Download the **Windows 11 ISO** from the official Microsoft website: [Windows 11 Download](https://www.microsoft.com/en-us/software-download/windows11).
