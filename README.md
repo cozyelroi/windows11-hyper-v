@@ -57,17 +57,34 @@ Setting up Windows 11 in Hyper-V is beneficial for testing new features, running
 ### Step 3: Create a New Virtual Machine
 1. Open **Hyper-V Manager**.
 2. In the right pane, click **New** > **Virtual Machine**.
+![image](https://github.com/user-attachments/assets/089384c8-bf1c-4199-9c3e-2354e8297b8d)
+
 3. Follow the prompts in the wizard:
    - **Name** the virtual machine (e.g., "Windows 11 VM").
+   ![image](https://github.com/user-attachments/assets/d345afa7-d6b7-427a-8d09-272f9aac2ae7)
+
    - Choose **Generation 2** for the virtual machine to enable secure boot and UEFI support.
+![image](https://github.com/user-attachments/assets/fee12d9d-9b4b-4b0e-b86f-9d3f813176e1)
+
    - Assign **memory** (at least 4 GB) to the virtual machine.
+![image](https://github.com/user-attachments/assets/37e14ed0-f8c0-4299-8691-adeeee6ec050)
+
    - Create a **virtual hard disk** (at least 64 GB recommended).
-   - Choose **Install an operating system from a bootable CD/DVD-ROM**, and select the downloaded **Windows 11 ISO** file.
+![image](https://github.com/user-attachments/assets/92a8c776-8820-475b-a044-1ffe22ae742d)
+
+    - Choose **Install an operating system from a bootable CD/DVD-ROM**, and select the downloaded **Windows 11 ISO** file.
+![image](https://github.com/user-attachments/assets/425e56f8-76b4-4b02-89e2-c06d81e56c9d)
+![image](https://github.com/user-attachments/assets/e68026fe-ab69-4f24-a9c2-62f09fe6cb15)
 
 ### Step 4: Configure Virtual Machine Settings
 1. After creating the virtual machine, right-click the VM and select **Settings**.
+![image](https://github.com/user-attachments/assets/8ba1a61a-d042-4ee0-bf29-a4a573f060e4)
+
 2. Under **Processor**, allocate at least 2 CPUs for optimal performance.
+![image](https://github.com/user-attachments/assets/92524e4c-1ed5-410b-bad5-b16f63741687)
+
 3. Under **Network Adapter**, select the virtual switch that connects the virtual machine to the host network.
+![image](https://github.com/user-attachments/assets/413b0e9d-6f6d-4f2e-a0d2-ab3c2954f63c)
 
 ### Step 5: Start the Virtual Machine and Install Windows 11
 1. Start the virtual machine by right-clicking on it and selecting **Start**.
