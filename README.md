@@ -106,13 +106,9 @@ Setting up Windows 11 in Hyper-V is beneficial for testing new features, running
 
 5. Let the installation complete, which may take several minutes.
 
-### Step 6: Install Integration Services (Optional)
-1. After the installation of Windows 11 is complete, install **Hyper-V Integration Services** by going to **Action** > **Insert Integration Services Setup Disk**.
-2. Run the setup to enhance the performance and integration of the virtual machine with the host system.
 
 ### Step 7: Complete the Setup and Final Configuration
-1. Configure Windows 11 settings (e.g., user account, password, region, etc.).
-2. Ensure that the virtual machine has internet access by verifying the network settings.
+1. Ensure that the virtual machine has internet access by verifying the network settings.
 
 ## Conclusion
 
