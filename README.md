@@ -1,4 +1,4 @@
-# Lab: Installing Windows 11 in Hyper-V
+# Installing Windows 11 in Hyper-V
 
 ## Lab Overview
 
