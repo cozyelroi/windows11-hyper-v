@@ -88,12 +88,23 @@ Setting up Windows 11 in Hyper-V is beneficial for testing new features, running
 
 ### Step 5: Start the Virtual Machine and Install Windows 11
 1. Start the virtual machine by right-clicking on it and selecting **Start**.
+![image](https://github.com/user-attachments/assets/66a5c977-fac8-4dfa-a5cd-537b8729c7cb)
+
 2. Open the **VMConnect** window to interact with the virtual machine.
+![image](https://github.com/user-attachments/assets/55b0ebb5-5e87-4637-a59e-d959d04cf9fe)
+![image](https://github.com/user-attachments/assets/911855f8-00a9-41be-92fb-d2d8477418ca)
+
 3. Follow the on-screen instructions to install **Windows 11**:
+![image](https://github.com/user-attachments/assets/f80fc3ad-1add-44cd-99cd-13e894452359)
+![image](https://github.com/user-attachments/assets/2a1c15c2-427d-4382-862c-87dca0c7fcf0)
+
    - Choose the language, time, and keyboard layout.
-   - Enter a valid product key (optional, for evaluation purposes).
-   - Select the partition to install **Windows 11** (use the default disk).
-4. Let the installation complete, which may take several minutes.
+![image](https://github.com/user-attachments/assets/a47bc48c-0489-4531-af28-de48d1e6dd21)
+![image](https://github.com/user-attachments/assets/f2aede55-469e-46a4-9dde-6b21937c8cc7)
+![image](https://github.com/user-attachments/assets/f8926690-3087-458d-a1f5-27da107502e3)
+![image](https://github.com/user-attachments/assets/b59c891c-ff15-4fdb-85bf-516e6ad92bd3)
+
+5. Let the installation complete, which may take several minutes.
 
 ### Step 6: Install Integration Services (Optional)
 1. After the installation of Windows 11 is complete, install **Hyper-V Integration Services** by going to **Action** > **Insert Integration Services Setup Disk**.
